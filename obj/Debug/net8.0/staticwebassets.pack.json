@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\obj\\Debug\\net8.0\\compressed\\sahx3dii8p.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "PackagePath": "staticwebassets\\BlazorApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\css\\font\\quicksand.css",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand.css"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\bike.svg",
+      "PackagePath": "staticwebassets\\img\\bike.svg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\icon-512.png",
+      "PackagePath": "staticwebassets\\img\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizza-slice.svg",
+      "PackagePath": "staticwebassets\\img\\pizza-slice.svg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizzas\\bacon.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\bacon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizzas\\brit.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\brit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizzas\\cheese.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\cheese.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizzas\\margherita.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\margherita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizzas\\meaty.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\meaty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizzas\\mushroom.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\mushroom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizzas\\pepperoni.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\pepperoni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\pizzas\\salad.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jean\\Desktop\\inductosense\\BlazorApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorApp.props",
+      "PackagePath": "build\\BlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp.props",
+      "PackagePath": "buildTransitive\\BlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
